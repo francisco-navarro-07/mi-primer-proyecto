@@ -1,2 +1,3 @@
 Hola mundo, este es mi primer archivo
 Spy Francisco Navarro
+Este archivo lo edite desde mi computadora con git pull
